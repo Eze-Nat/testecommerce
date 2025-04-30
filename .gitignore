@@ -22,3 +22,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Archivos de entorno
+.env
+.env.local
+
+# Dependencias
+node_modules/
+
+# Producción
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/

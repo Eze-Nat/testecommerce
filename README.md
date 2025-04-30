@@ -1,12 +1,23 @@
-# React + Vite
+# E-commerce de Perfumes 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Currently, two official plugins are available:
+Aplicación moderna de e-commerce especializada en perfumes, con autenticación, carrito de compras y panel de administración.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Características Principales
 
-## Expanding the ESLint configuration
+- Autenticación JWT (Login/Register)
+- Scroll infinito con búsqueda en tiempo real
+- Carrito persistente (localStorage)
+- Diseño responsive
+- Integración con API REST
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tecnologías
+
+- Frontend: React 18 + Vite
+- Estilos: Bootstrap 5 + CSS Modules
+- Gestión de estado: Context API + React Query
+- Routing: React Router 6
+
+## 🏗 Estructura del Proyecto
+
